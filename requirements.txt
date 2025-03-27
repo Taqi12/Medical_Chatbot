@@ -4,4 +4,3 @@ sentence-transformers
 numpy
 pandas
 pickle-mixin
-csv
