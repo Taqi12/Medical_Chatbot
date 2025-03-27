@@ -4,7 +4,7 @@ import pickle
 from sentence_transformers import SentenceTransformer, util
 
 # Load the SBERT model
-model = SentenceTransformer("sbert_model")
+model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 # Load precomputed question embeddings
 question_embeddings = torch.load("question_embeddings.pt")
