@@ -8,7 +8,7 @@ This project is an **AI-powered medical chatbot** that uses **Sentence-BERT (SBE
 - The chatbot will retrieve and display the most relevant answer.  
 
 ## Dataset  
-[MedQuAD Dataset](https://www.nlm.nih.gov/databases/download/medquad.html)  
+[MedQuAD Dataset]([https://www.nlm.nih.gov/databases/download/medquad.html](https://www.kaggle.com/datasets/pythonafroz/medquad-medical-question-answer-for-ai-research))  
 - The model is trained on a **medical question-answer dataset**.  
 - The dataset contains **precomputed question embeddings** for efficient retrieval.  
 
